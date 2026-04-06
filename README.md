@@ -15,10 +15,10 @@ I focus on writing clean code, creating smooth user experiences, and turning ide
 
 <div align="center"> 
   <a href="mailto:your-email@gmail.com">
-    <img src="http://mail.google.com/mail/u/0/#inbox" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://www.linkedin.com/in/mazen-alsaadny-3b10b5354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
